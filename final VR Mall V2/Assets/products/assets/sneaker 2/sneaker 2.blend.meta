@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 70016debd1412de49909ebd81a7c1d3d
+timeCreated: 1520779983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Camera01_Target
+    100004: gold
+    100006: gold01
+    100008: Group01
+    100010: inside01
+    100012: inside02
+    100014: lace_end01
+    100016: lace_end02
+    100018: LACEBIT
+    100020: NEWLACE
+    100022: shoe02
+    100024: shoe03
+    100026: //RootNode
+    100028: sole01
+    100030: sole02
+    100032: tongue01
+    100034: tongue02
+    400000: Box01
+    400002: Camera01_Target
+    400004: gold
+    400006: gold01
+    400008: Group01
+    400010: inside01
+    400012: inside02
+    400014: lace_end01
+    400016: lace_end02
+    400018: LACEBIT
+    400020: NEWLACE
+    400022: shoe02
+    400024: shoe03
+    400026: //RootNode
+    400028: sole01
+    400030: sole02
+    400032: tongue01
+    400034: tongue02
+    2300000: Box01
+    2300002: gold
+    2300004: gold01
+    2300006: inside01
+    2300008: inside02
+    2300010: lace_end01
+    2300012: lace_end02
+    2300014: LACEBIT
+    2300016: NEWLACE
+    2300018: shoe02
+    2300020: shoe03
+    2300022: sole01
+    2300024: sole02
+    2300026: tongue01
+    2300028: tongue02
+    3300000: Box01
+    3300002: gold
+    3300004: gold01
+    3300006: inside01
+    3300008: inside02
+    3300010: lace_end01
+    3300012: lace_end02
+    3300014: LACEBIT
+    3300016: NEWLACE
+    3300018: shoe02
+    3300020: shoe03
+    3300022: sole01
+    3300024: sole02
+    3300026: tongue01
+    3300028: tongue02
+    4300000: Box01
+    4300002: inside02
+    4300004: sole02
+    4300006: gold01
+    4300008: shoe03
+    4300010: lace_end02
+    4300012: tongue02
+    4300014: sole01
+    4300016: gold
+    4300018: shoe02
+    4300020: inside01
+    4300022: tongue01
+    4300024: NEWLACE
+    4300026: lace_end01
+    4300028: LACEBIT
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
