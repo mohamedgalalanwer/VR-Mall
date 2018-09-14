@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: b334fed54f3958b4a8090ae0936eba84
+timeCreated: 1521713221
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: cgaxis_models_59_20_01
+    100002: cgaxis_models_59_20_02
+    100004: cgaxis_models_59_20_03
+    100006: cgaxis_models_59_20_04
+    100008: cgaxis_models_59_20_04_MeshPart0
+    100010: cgaxis_models_59_20_04_MeshPart1
+    100012: cgaxis_models_59_20_05_1
+    100014: cgaxis_models_59_20_05_2
+    100016: cgaxis_models_59_20_06_1
+    100018: cgaxis_models_59_20_06_2
+    100020: cgaxis_models_59_20_07
+    100022: cgaxis_models_59_20_07_MeshPart0
+    100024: cgaxis_models_59_20_07_MeshPart1
+    100026: cgaxis_models_59_20_08
+    100028: cgaxis_models_59_20_09
+    100030: cgaxis_models_59_20_10
+    100032: //RootNode
+    400000: cgaxis_models_59_20_01
+    400002: cgaxis_models_59_20_02
+    400004: cgaxis_models_59_20_03
+    400006: cgaxis_models_59_20_04
+    400008: cgaxis_models_59_20_04_MeshPart0
+    400010: cgaxis_models_59_20_04_MeshPart1
+    400012: cgaxis_models_59_20_05_1
+    400014: cgaxis_models_59_20_05_2
+    400016: cgaxis_models_59_20_06_1
+    400018: cgaxis_models_59_20_06_2
+    400020: cgaxis_models_59_20_07
+    400022: cgaxis_models_59_20_07_MeshPart0
+    400024: cgaxis_models_59_20_07_MeshPart1
+    400026: cgaxis_models_59_20_08
+    400028: cgaxis_models_59_20_09
+    400030: cgaxis_models_59_20_10
+    400032: //RootNode
+    2300000: cgaxis_models_59_20_01
+    2300002: cgaxis_models_59_20_02
+    2300004: cgaxis_models_59_20_03
+    2300006: cgaxis_models_59_20_04_MeshPart0
+    2300008: cgaxis_models_59_20_04_MeshPart1
+    2300010: cgaxis_models_59_20_05_1
+    2300012: cgaxis_models_59_20_05_2
+    2300014: cgaxis_models_59_20_06_1
+    2300016: cgaxis_models_59_20_06_2
+    2300018: cgaxis_models_59_20_07_MeshPart0
+    2300020: cgaxis_models_59_20_07_MeshPart1
+    2300022: cgaxis_models_59_20_08
+    2300024: cgaxis_models_59_20_09
+    2300026: cgaxis_models_59_20_10
+    3300000: cgaxis_models_59_20_01
+    3300002: cgaxis_models_59_20_02
+    3300004: cgaxis_models_59_20_03
+    3300006: cgaxis_models_59_20_04_MeshPart0
+    3300008: cgaxis_models_59_20_04_MeshPart1
+    3300010: cgaxis_models_59_20_05_1
+    3300012: cgaxis_models_59_20_05_2
+    3300014: cgaxis_models_59_20_06_1
+    3300016: cgaxis_models_59_20_06_2
+    3300018: cgaxis_models_59_20_07_MeshPart0
+    3300020: cgaxis_models_59_20_07_MeshPart1
+    3300022: cgaxis_models_59_20_08
+    3300024: cgaxis_models_59_20_09
+    3300026: cgaxis_models_59_20_10
+    4300000: cgaxis_models_59_20_01
+    4300002: cgaxis_models_59_20_02
+    4300004: cgaxis_models_59_20_03
+    4300006: cgaxis_models_59_20_04_MeshPart0
+    4300008: cgaxis_models_59_20_04_MeshPart1
+    4300010: cgaxis_models_59_20_05_1
+    4300012: cgaxis_models_59_20_05_2
+    4300014: cgaxis_models_59_20_06_1
+    4300016: cgaxis_models_59_20_06_2
+    4300018: cgaxis_models_59_20_07_MeshPart0
+    4300020: cgaxis_models_59_20_07_MeshPart1
+    4300022: cgaxis_models_59_20_08
+    4300024: cgaxis_models_59_20_09
+    4300026: cgaxis_models_59_20_10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

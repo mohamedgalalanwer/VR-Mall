@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 4f56667fbb4cf964ba740a63bdb3686b
+timeCreated: 1521712994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: cgaxis_models_59_15_01
+    100002: cgaxis_models_59_15_01_MeshPart0
+    100004: cgaxis_models_59_15_01_MeshPart1
+    100006: cgaxis_models_59_15_02
+    100008: cgaxis_models_59_15_03
+    100010: cgaxis_models_59_15_03_MeshPart0
+    100012: cgaxis_models_59_15_03_MeshPart1
+    100014: cgaxis_models_59_15_04
+    100016: cgaxis_models_59_15_05
+    100018: cgaxis_models_59_15_06
+    100020: cgaxis_models_59_15_06_MeshPart0
+    100022: cgaxis_models_59_15_06_MeshPart1
+    100024: cgaxis_models_59_15_07
+    100026: cgaxis_models_59_15_08
+    100028: cgaxis_models_59_15_09
+    100030: cgaxis_models_59_15_10
+    100032: cgaxis_models_59_15_11
+    100034: cgaxis_models_59_15_12
+    100036: cgaxis_models_59_15_13
+    100038: //RootNode
+    400000: cgaxis_models_59_15_01
+    400002: cgaxis_models_59_15_01_MeshPart0
+    400004: cgaxis_models_59_15_01_MeshPart1
+    400006: cgaxis_models_59_15_02
+    400008: cgaxis_models_59_15_03
+    400010: cgaxis_models_59_15_03_MeshPart0
+    400012: cgaxis_models_59_15_03_MeshPart1
+    400014: cgaxis_models_59_15_04
+    400016: cgaxis_models_59_15_05
+    400018: cgaxis_models_59_15_06
+    400020: cgaxis_models_59_15_06_MeshPart0
+    400022: cgaxis_models_59_15_06_MeshPart1
+    400024: cgaxis_models_59_15_07
+    400026: cgaxis_models_59_15_08
+    400028: cgaxis_models_59_15_09
+    400030: cgaxis_models_59_15_10
+    400032: cgaxis_models_59_15_11
+    400034: cgaxis_models_59_15_12
+    400036: cgaxis_models_59_15_13
+    400038: //RootNode
+    2300000: cgaxis_models_59_15_01_MeshPart0
+    2300002: cgaxis_models_59_15_01_MeshPart1
+    2300004: cgaxis_models_59_15_02
+    2300006: cgaxis_models_59_15_03_MeshPart0
+    2300008: cgaxis_models_59_15_03_MeshPart1
+    2300010: cgaxis_models_59_15_04
+    2300012: cgaxis_models_59_15_05
+    2300014: cgaxis_models_59_15_06_MeshPart0
+    2300016: cgaxis_models_59_15_06_MeshPart1
+    2300018: cgaxis_models_59_15_07
+    2300020: cgaxis_models_59_15_08
+    2300022: cgaxis_models_59_15_09
+    2300024: cgaxis_models_59_15_10
+    2300026: cgaxis_models_59_15_11
+    2300028: cgaxis_models_59_15_12
+    2300030: cgaxis_models_59_15_13
+    3300000: cgaxis_models_59_15_01_MeshPart0
+    3300002: cgaxis_models_59_15_01_MeshPart1
+    3300004: cgaxis_models_59_15_02
+    3300006: cgaxis_models_59_15_03_MeshPart0
+    3300008: cgaxis_models_59_15_03_MeshPart1
+    3300010: cgaxis_models_59_15_04
+    3300012: cgaxis_models_59_15_05
+    3300014: cgaxis_models_59_15_06_MeshPart0
+    3300016: cgaxis_models_59_15_06_MeshPart1
+    3300018: cgaxis_models_59_15_07
+    3300020: cgaxis_models_59_15_08
+    3300022: cgaxis_models_59_15_09
+    3300024: cgaxis_models_59_15_10
+    3300026: cgaxis_models_59_15_11
+    3300028: cgaxis_models_59_15_12
+    3300030: cgaxis_models_59_15_13
+    4300000: cgaxis_models_59_15_01_MeshPart0
+    4300002: cgaxis_models_59_15_01_MeshPart1
+    4300004: cgaxis_models_59_15_02
+    4300006: cgaxis_models_59_15_03_MeshPart0
+    4300008: cgaxis_models_59_15_03_MeshPart1
+    4300010: cgaxis_models_59_15_04
+    4300012: cgaxis_models_59_15_05
+    4300014: cgaxis_models_59_15_06_MeshPart0
+    4300016: cgaxis_models_59_15_06_MeshPart1
+    4300018: cgaxis_models_59_15_07
+    4300020: cgaxis_models_59_15_08
+    4300022: cgaxis_models_59_15_09
+    4300024: cgaxis_models_59_15_10
+    4300026: cgaxis_models_59_15_11
+    4300028: cgaxis_models_59_15_12
+    4300030: cgaxis_models_59_15_13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

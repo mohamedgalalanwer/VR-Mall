@@ -1,0 +1,59 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.07.2015 08:55:59
+
+newmtl cgaxis_models_59_10_01
+	Ns 39.999996
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.500000 0.500000 0.500000
+	Ks 0.531000 0.531000 0.531000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\cgaxis_models_59_10_01.jpg
+	map_Kd maps\cgaxis_models_59_10_01.jpg
+	map_bump maps\cgaxis_models_59_10_01_bump.jpg
+	bump maps\cgaxis_models_59_10_01_bump.jpg
+
+newmtl cgaxis_models_59_10_02
+	Ns 45.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.500000 0.500000 0.500000
+	Ks 0.225000 0.225000 0.225000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\cgaxis_models_59_10_02.jpg
+	map_Kd maps\cgaxis_models_59_10_02.jpg
+	map_d maps\cgaxis_models_59_10_02_opacity.jpg
+	map_bump maps\cgaxis_models_59_10_02_bump.jpg
+	bump maps\cgaxis_models_59_10_02_bump.jpg
+
+newmtl cgaxis_models_59_10_03
+	Ns 35.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.007843 0.007843 0.007843
+	Ks 0.630000 0.630000 0.630000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl cgaxis_models_59_10_04
+	Ns 19.999998
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.007843 0.007843 0.007843
+	Ks 0.405000 0.405000 0.405000
+	Ke 0.000000 0.000000 0.000000
